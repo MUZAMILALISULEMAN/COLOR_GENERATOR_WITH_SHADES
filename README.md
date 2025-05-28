@@ -30,7 +30,7 @@ A clean, simple, and interactive web tool to generate a random base color and ex
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Preview
 
 Here’s a sneak peek of the app:
 
@@ -39,4 +39,24 @@ Here’s a sneak peek of the app:
 | ![Color](1.png) | ![Shades](2.png) |
 
 ---
+## 📚 Learning Goals
+
+This project is great for:
+
+- 🧑‍💻 Practicing basic web development with HTML, CSS, and JavaScript.
+- 🌀 Understanding CSS animations and transitions.
+- 🎨 Exploring interactive front-end design concepts.
+
+## 🤝 Contributing
+
+Feel free to fork this repo and submit a pull request if you'd like to contribute!
+
+## 📜 License
+
+This project is open-source and free to use.
+
+---
+
+Made with ❤️ by [MUZAMIL ALI SULEMAN](https://github.com/MUZAMILALISULEMAN)
+
 
