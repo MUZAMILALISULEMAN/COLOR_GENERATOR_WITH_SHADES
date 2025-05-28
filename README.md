@@ -18,7 +18,7 @@ A clean, simple, and interactive web tool to generate a random base color and ex
 
 ## 🚀 Live Demo
 
-👉 *Coming Soon!* (You can host this project on GitHub Pages or Netlify.)
+👉 https://muzamilalisuleman.github.io/COLOR_GENERATOR_WITH_SHADES/
 
 ---
 
