@@ -40,5 +40,3 @@ Here’s a sneak peek of the app:
 
 ---
 
-## 📂 Project Structure
-
